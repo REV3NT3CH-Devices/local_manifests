@@ -11,7 +11,4 @@
  <!-- Blobz -->
   <project name="REV3NT3CH-Devices/android_vendor_oneplus" path="vendor/oneplus" remote="github" revision="p9.0" />
 
- <!-- Extras -->
-  <project name="REV3NT3CH-Devices/android_system_qcom" path="system/qcom" remote="github" revision="p9.0" />
-
  </manifest>
