@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <!-- Device -->
+  <project name="REV3NT3CH-Devices/android_device_oneplus_dumpling" path="device/oneplus/dumpling" remote="github" revision="pie" />
+  <project name="REV3NT3CH-Devices/android_device_oneplus_msm8998-common" path="device/oneplus/msm8998-common" remote="github" revision="p9.0" />
+  <project name="REV3NT3CH-Devices/android_device_oneplus_extras" path="device/oneplus/extras" remote="github" revision="p9.0" />
+
+ <!-- Kernel -->
+  <project name="Krieg-Kernel/OP5-OP5T" path="kernel/oneplus/msm8998" remote="github" revision="pie" />
+
+ <!-- Blobz -->
+  <project name="REV3NT3CH-Devices/android_vendor_oneplus" path="vendor/oneplus" remote="github" revision="p9.0" />
+
+ <!-- Extras -->
+  <project name="REV3NT3CH-Devices/android_system_qcom" path="system/qcom" remote="github" revision="p9.0" />
+
+ </manifest>
