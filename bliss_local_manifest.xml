@@ -12,5 +12,6 @@
 
  <!-- Misc -->
   <project name="DirtyUnicorns/android_vendor_pixelgapps" path="vendor/pixelgapps" remote="gitlab" revision="q10x" />
+  <project name="BlissRoms/platform_external_google" path="external/google" remote="github" revision="q" />
 
  </manifest>
