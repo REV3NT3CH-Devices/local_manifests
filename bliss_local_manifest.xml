@@ -5,13 +5,12 @@
   <project name="REV3NT3CH-Devices/android_device_google_wahoo" path="device/google/wahoo" remote="github" revision="q" />
 
  <!-- Kernel -->
-  <project name="REV3NT3CH-Devices/android_kernel_google_wahoo" path="kernel/google/wahoo" remote="github" revision="q"/>
+  <project name="BlissRoms-Devices/android_kernel_google_wahoo" path="kernel/google/wahoo" remote="github" revision="q"/>
 
  <!-- Blobz -->
   <project name="REV3NT3CH-Devices/proprietary_android_vendor_google" path="vendor/google" remote="github" revision="q" />
 
  <!-- Misc -->
-  <project name="DirtyUnicorns/android_vendor_pixelgapps" path="vendor/pixelgapps" remote="gitlab" revision="q10x" />
-  <project name="BlissRoms/platform_external_google" path="external/google" remote="github" revision="q" />
+  <project name="shagbag913/vendor_gapps" path="vendor/gapps" remote="gitlab" revision="ten" />
 
  </manifest>
