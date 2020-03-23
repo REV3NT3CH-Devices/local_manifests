@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <!-- Gitlab remote -->
+  <remote  name="gitlab"
+           fetch="https://gitlab.com/" />
+ <!-- Device -->
+  <project name="REV3NT3CH-Devices/android_device_google_taimen" path="device/google/taimen" remote="github" revision="10.0" />
+  <project name="REV3NT3CH-Devices/android_device_google_wahoo" path="device/google/wahoo" remote="github" revision="10.0" />
+
+ <!-- Kernel -->
+  <project name="B14CKB1RD-Kernel/B14CKB1RD_wahoo" path="kernel/google/wahoo" remote="github" revision="q"/>
+
+ <!-- Clang -->
+  <project name="B14CKB1RD-Kernel/android_prebuilts_clang_host_linux-x86_clang-6364210" path="prebuilts/clang/host/linux-x86/clang-6364210" remote="github" revision="q"/>
+
+ <!-- Blobz -->
+  <project name="REV3NT3CH-Devices/proprietary_android_vendor_google" path="vendor/google" remote="github" revision="10.0" />
+
+ <!-- GAPPS -->
+  <project name="REV3NT3CH/vendor_gapps" path="vendor/gapps" remote="gitlab" revision="q" />
+
+ </manifest>
