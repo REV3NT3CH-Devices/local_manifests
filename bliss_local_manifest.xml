@@ -9,6 +9,5 @@
  <!-- Blobz -->
   <project name="platform_external_google" path="external/google" remote="BlissRoms" revision="q" /> 
   <project name="REV3NT3CH-Devices/proprietary_android_vendor_google" path="vendor/google" remote="github" revision="q" />
-  <project name="vendor_gapps" path="vendor/gapps" remote="BlissRoms-gitlab" revision="q" />
 
  </manifest>
