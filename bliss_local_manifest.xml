@@ -4,7 +4,7 @@
   <project name="REV3NT3CH-Devices/android_device_google_taimen" path="device/google/taimen" remote="github" revision="q" />
   <project name="REV3NT3CH-Devices/android_device_google_wahoo" path="device/google/wahoo" remote="github" revision="q" />
  <!-- Kernel -->
-  <project name="B14CKB1RD-Kernel/B14CKB1RD_wahoo" path="kernel/google/wahoo" remote="github" revision="q" />
+  <project name="B14CKB1RD-Kernel/B14CKB1RD_wahoo" path="kernel/google/wahoo" remote="github" revision="q-rom" />
   <project name="B14CKB1RD-Kernel/android_prebuilts_clang_host_linux-x86_clang-6607189" path="prebuilts/clang/host/linux-x86/clang-6607189" remote="github" revision="q" />
  <!-- Blobz -->
   <project name="platform_external_google" path="external/google" remote="BlissRoms" revision="q" /> 
