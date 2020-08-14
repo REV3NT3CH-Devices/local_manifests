@@ -8,5 +8,6 @@
   <project name="B14CKB1RD-Kernel/android_prebuilts_clang_host_linux-x86_clang-6607189" path="prebuilts/clang/host/linux-x86/clang-6607189" remote="github" revision="q" />
  <!-- Blobz -->
   <project name="REV3NT3CH-Devices/proprietary_android_vendor_google" path="vendor/google" remote="github" revision="q" />
+  <project name="vendorgapps" path="vendor/gapps" remote="BlissRoms-gitlab" revision="q" />
 
  </manifest>
