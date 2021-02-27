@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
  <!-- Device -->
-  <project name="REV3NT3CH-Devices/android_device_google_coral" path="device/google/coral" remote="github" revision="bliss-r" />
+  <project name="REV3NT3CH-Devices/android_device_google_coral" path="device/google/coral" remote="github" revision="havoc-r" />
  <!-- Kernel -->
   <project name="REV3NT3CH-Devices/android_kernel_google_coral" path="kernel/google/coral" remote="github" revision="r" />
  <!-- Blobz -->
