@@ -5,7 +5,7 @@
  <!-- Kernel -->
   <project name="REV3NT3CH-Devices/android_kernel_google_coral" path="kernel/google/coral" remote="github" revision="r" />
  <!-- Blobz -->
-  <project name="REV3NT3CH-Devices/proprietary_android_vendor_google" path="vendor/google" remote="github" revision="havoc-r" />
+  <project name="REV3NT3CH-Devices/proprietary_vendor_google" path="vendor/google" remote="github" revision="havoc-r" />
   <project name="REV3NT3CH-Devices/android_packages_apps_ElmyraService" path="packages/apps/ElmyraService" remote="github" revision="r" />
 
  </manifest>
