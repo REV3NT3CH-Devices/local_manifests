@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="REV3NT3CH-Devices/android_device_google_coral" path="device/google/coral" remote="github" revision="kangos-r" />
+  <project name="TheMuppets/proprietary_vendor_google" path="vendor/google" remote="github" revision="lineage-18.1" />
+  <project name="LineageOS/android_kernel_google_coral" path="kernel/google/coral" remote="github" revision="lineage-18.1" />
+  <project name="ezio84/abc_packages_apps_ElmyraService" path="packages/apps/ElmyraService" remote="github" revision="r" />
+
+</manifest>
