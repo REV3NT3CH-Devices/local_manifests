@@ -4,7 +4,7 @@
   <project name="REV3NT3CH-Devices/android_device_google_coral" path="device/google/coral" remote="github" revision="typhoon" />
 
  <!-- Kernel -->
-  <project name="B14CKB1RD-Kernel/B14CKB1RD_coral" path="kernel/google/msm-4.14" remote="github" revision="typhoon" />
+  <project name="B14CKB1RD-Kernel/B14CKB1RD_floral" path="kernel/google/B14CKB1RD_floral" remote="github" revision="typhoon" />
 
  <!-- Blobz -->
   <project name="REV3NT3CH-Devices/proprietary_vendor_google_coral" path="vendor/google/coral" remote="github" revision="typhoon" />
